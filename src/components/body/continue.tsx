@@ -3,7 +3,7 @@ import continueImage from "../../assets/images/posters/continue.png";
 
 export const Continue = () => {
   return (
-    <Section>
+    <Section id="continue">
       {/* <div className="px-6 mb-4">
         <h2 className="text-white text-2xl font-bold">Continue</h2>
       </div> */}

@@ -3,7 +3,7 @@ import studiosImage from "../../assets/images/posters/Studios.png";
 
 export const Studios = () => {
   return (
-    <Section>
+    <Section id="studios">
       {/* <div className="px-6 mb-4">
         <h2 className="text-white text-2xl font-bold">Studios</h2>
       </div> */}

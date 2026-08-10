@@ -24,7 +24,7 @@ const plans = [
 
 export const Price = () => {
   return (
-    <Section>
+    <Section id="pricing">
       <div className="px-6 mb-8 text-center">
         <h2 className="text-white text-3xl font-bold">Price</h2>
         <p className="text-gray-400 mt-2">Choose the plan that fits your needs</p>

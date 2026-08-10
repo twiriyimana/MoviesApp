@@ -3,7 +3,7 @@ import seriesImage from "../../assets/images/posters/Series.png";
 
 export const Series = () => {
   return (
-    <Section>
+    <Section id="series">
       <div className="px-6 mb-4">
         <h2 className="text-white text-2xl font-bold">Series</h2>
       </div>

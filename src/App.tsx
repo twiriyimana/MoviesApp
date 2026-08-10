@@ -1,4 +1,3 @@
-import React from "react"
 import { HomeContainer } from "./styles/index"
 import { Hero } from "./components"
 import { Navbar } from "./components/navbar"

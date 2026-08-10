@@ -35,7 +35,7 @@ const movies = [
 
 export const Movie = () => {
   return (
-    <MovieSection>
+    <MovieSection id="movies">
       
       <div className="px-6 mb-4">
         <h1 className="text-white text-2xl font-bold">Movies</h1>

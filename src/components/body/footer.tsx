@@ -1,10 +1,9 @@
 import styled from "styled-components";
 import { FaFacebook, FaInstagram, FaYoutube, FaWhatsapp } from "react-icons/fa";
-import logo from "../../assets/images/logos/logo.png";
 
 export const Footer = () => {
   return (
-    <FooterSection>
+    <FooterSection id="footer">
       <div className="footer-content">
         <div className="footer-brand">
           {/* <img src={logo.toString()} alt="Logo" className="footer-logo" /> */}

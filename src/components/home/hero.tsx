@@ -17,7 +17,7 @@ export const Hero = () => {
 
 
 
-    return (<HeroContainer bannerUrl={heroData.heroData[activePoster].banner.toString()}>
+    return (<HeroContainer id="home" bannerUrl={heroData.heroData[activePoster].banner.toString()}>
         <div className='hero-logo'>
             <img src={heroData.heroData[activePoster].image.toString()} alt="hero Data Logo" />
         </div>

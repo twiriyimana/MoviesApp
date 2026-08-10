@@ -25,7 +25,7 @@ const faqs = [
 
 export const FAQ = () => {
   return (
-    <Section>
+    <Section id="faq">
       <div className="px-6 mb-8 text-center">
         <h2 className="text-white text-3xl font-bold">Frequently Asked Questions</h2>
         <p className="text-gray-400 mt-2">Find answers to common questions about our service</p>

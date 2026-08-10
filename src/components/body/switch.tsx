@@ -3,7 +3,7 @@ import switchImage from "../../assets/images/posters/switch.png";
 
 export const Switch = () => {
   return (
-    <Section>
+    <Section id="switch">
       {/* <div className="px-6 mb-4">
         <h2 className="text-white text-2xl font-bold">Switch</h2>
       </div> */}

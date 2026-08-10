@@ -1,5 +1,3 @@
-import styled from "styled-components";
-
 import poster1 from "../../assets/images/posters/image 202.png";
 import poster2 from "../../assets/images/posters/image 77.png";
 import poster3 from "../../assets/images/posters/image 78.png";
@@ -36,7 +34,7 @@ const movies = [
 
 export const Films = () => {
   return (
-    <section className="bg-black py-8">
+    <section id="trends" className="bg-black py-8">
       <div className="px-6 mb-6 flex justify-between items-center">
         <h2 className="text-white text-3xl font-bold">Trends</h2>
         <button className="px-4 py-2 rounded-lg bg-red-600 text-white font-medium hover:bg-red-700 transition">

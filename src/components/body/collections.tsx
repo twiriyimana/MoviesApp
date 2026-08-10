@@ -3,7 +3,7 @@ import collectionsImage from "../../assets/images/posters/Collections.png";
 
 export const Collections = () => {
   return (
-    <Section>
+    <Section id="collections">
       
       <div className="flex justify-center">
         <img

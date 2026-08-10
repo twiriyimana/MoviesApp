@@ -3,7 +3,7 @@ import goldenGlobe from "../../assets/images/posters/Golden Globe.png";
 
 export const GoldenGlobe = () => {
   return (
-    <Section>
+    <Section id="goldenglobe">
       {/* <div className="px-6 mb-4">
         <h2 className="text-white text-2xl font-bold">Golden Globe</h2>
       </div> */}
